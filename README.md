@@ -1,4 +1,4 @@
-# Dummy Resume Layout - React
+# Resume Layout - React
 
 This is a resume built from a free template at `http://www.styleshout.com/free-templates/ceevee/`, converted to React components.
 
